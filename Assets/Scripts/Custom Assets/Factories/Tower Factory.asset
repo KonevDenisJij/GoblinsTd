@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48f7b304f6cda53498b3e082d39b6e17, type: 3}
+  m_Name: Tower Factory
+  m_EditorClassIdentifier: 
+  _abilitieFactory: {fileID: 11400000, guid: 96eb70c2c6b09524db41dd4236eea45d, type: 2}
+  _unitFactory: {fileID: 11400000, guid: 9ac3045a29930e040b5805c905714109, type: 2}
+  _laserTowerPrefab: {fileID: -7611325691402929197, guid: 3a645143a38584f41a17ece3fc4bfc5d, type: 3}
+  _damagePerSecond: 50
+  _mortarTowerPrefab: {fileID: 5534711232051799139, guid: 248ecc5e2c7ab3142b702014a3611afa, type: 3}
+  _shellBlastRadius: 1
+  _shellDamage: 100
+  _shotsPerSecond: 1
+  _thornFloorPrefab: {fileID: 7805580652645986730, guid: c7d753fc57ae54e489138a2535aee130, type: 3}
+  _thornsDamage: 25
+  _rechargeTime: 2
+  _balloonTowerPrefab: {fileID: -6106413221147785289, guid: c39c3a0019c1cd44aa9f4fdc4ad0b5df, type: 3}
+  _balloonBlastRadius: 1
+  _balloonDamage: 50
+  _balloonShotsPerSecond: 1
+  _knightsTowerPrefab: {fileID: 6316817360926975381, guid: d10d23cd768bd754dbf77258a889cc08, type: 3}
+  _amountOfKnights: 1
+  _knightsSpawnSpeed: 3

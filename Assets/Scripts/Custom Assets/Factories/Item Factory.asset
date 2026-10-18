@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d92322e1bad6cf8498ca75ba9bb6f507, type: 3}
+  m_Name: Item Factory
+  m_EditorClassIdentifier: 
+  _lineMaterial: {fileID: 2100000, guid: 97ff64f154ce5084e9ad1f3d24770bd0, type: 2}
+  _bombPrefab: {fileID: 543510137336788808, guid: c2b46ce2354808149945c853c90a9833, type: 3}
+  _bombRange: 2.5
+  _bombDamage: 100
+  _coldBombPrefab: {fileID: 543510137336788808, guid: 4800004be3905424e8902fe45dcfea0f, type: 3}
+  _coldBombRange: 1.5
+  _coldBombDamage: 10
+  _coldBombDuration: 3

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3b991fd68335fe48b2976924f68f93b, type: 3}
+  m_Name: Building Factory
+  m_EditorClassIdentifier: 
+  _availableBuildings:
+  - _name: "\u041A\u0430\u0437\u0430\u0440\u043C\u044B"
+    _preview: {fileID: 7443837168533485966, guid: 967996d593ad91e4690c95853d724d33, type: 3}
+    _buildingBase: {fileID: 4340628431317087177, guid: a44978d3bccaeac45ac61f76e7bcdb8c, type: 3}
+    _icon: {fileID: 21300000, guid: b884901e04d60a04ca9e2d3c5136a03a, type: 3}
+    _buildingType: 0
+  - _name: "\u041A\u0430\u0437\u043D\u0430"
+    _preview: {fileID: 1564497769445734392, guid: 4bda8e0034a26e047a60374e2bf9ac9d, type: 3}
+    _buildingBase: {fileID: 1951098714971388339, guid: 54460eb7443a0234ea0e7cd9fef0dbc3, type: 3}
+    _icon: {fileID: 21300000, guid: 608a51001d6a0cf42a5cc0c033d778a2, type: 3}
+    _buildingType: 1

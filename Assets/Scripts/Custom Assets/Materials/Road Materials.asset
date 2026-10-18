@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35fb25df34bb9354a99abdf9da9df82b, type: 3}
+  m_Name: Road Materials
+  m_EditorClassIdentifier: 
+  _yellowMaterial: {fileID: 2100000, guid: 3d2a9f490cd81064eb154d274dd6ef3e, type: 2}
+  _redMaterial: {fileID: 2100000, guid: ff3a789510dca7c45be9c90cfdea0d95, type: 2}
